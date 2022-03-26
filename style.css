@@ -1,0 +1,43 @@
+/* unvisited link */
+a:link {
+  color: white;
+}
+a:visited {
+  color: #eff6ee;
+}
+a:active {
+  color: blue;
+}
+a:hover {
+  color: aqua;
+}
+.button {
+  background-color: #9197ae; /* Green */
+  border: none;
+  color: white;
+  border-radius: 10rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 16px;
+}
+#nelson {
+  height: 12em;
+}
+#freehold {
+  height: 12em;
+}
+#science {
+  height: 12em;
+}
+body {
+  color: #eff6ee;
+}
+h3 {
+  font-size: 25px;
+}
+#computer {
+  height: 12em;
+}
+#language {
+  height: 12em;
+}
